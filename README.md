@@ -69,5 +69,4 @@
 - Living & coding in 🇱🇹 Lithuania
 
 ---
-
-> "Code that doesn’t get noticed – that’s the goal."
+"
