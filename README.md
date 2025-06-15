@@ -1,25 +1,21 @@
-<!-- Typing animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Tomas+%F0%9F%91%8B;Frontend+Engineer+%7C+React+%7C+Next.js+%7C+WordPress;Pixel-perfect+UI+and+clean+code" alt="Typing SVG" />
-</h1>
+<h1 align="center">Tomas Antanaitis</h1>
 
-<br>
+<p align="center">
+  Front-End Engineer • React • Next.js
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antanaitis-tomas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="mailto:hello@atomas.lt">
-    <img src="https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://atomas.lt" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
+  <a href="mailto:to.antanaitis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧠 Tech Stack
+### ⚙️ Tech Stack
 
 **Languages**
 <p>
@@ -34,7 +30,7 @@
   <img src="https://img.shields.io/badge/Prismic-161B22?style=for-the-badge&logo=prismic&logoColor=white" />
 </p>
 
-**Design & Other**
+**Design & Utilities**
 <p>
   <img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
@@ -56,8 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAnta&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- Optionally add contributions or streak below -->
-
+<!-- Optional -->
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasAnta&theme=radical&hide_border=true" />
@@ -66,14 +61,13 @@
 
 ---
 
-### ✍️ About Me
+### 🧠 About Me
 
-- 🧑‍💻 Writing clean code and building fast UIs
-- 🎯 Focused on performance, accessibility, and good UX
-- ✨ Obsessed with simplicity and atomic design
-- 🌍 Based in Lithuania
+- Writing clean, performant code
+- Building UI/UX that feels native
+- Obsessed with structure, clarity, and speed
+- Living & coding in 🇱🇹 Lithuania
 
 ---
 
-> “Crafting front-ends that feel invisible – only the content matters.”
-
+> "Code that doesn’t get noticed – that’s the goal."
